@@ -53,20 +53,15 @@ RUN yes | sdkmanager \
     "platforms;android-27" \
     "platforms;android-26" \
     "platforms;android-25" \
-    "build-tools;28.0.1" \
-    "build-tools;28.0.0" \
+    "build-tools;28.0.3" \
     "build-tools;27.0.3" \
-    "build-tools;27.0.2" \
-    "build-tools;27.0.1" \
-    "build-tools;27.0.0" \
     "build-tools;26.0.2" \
-    "build-tools;26.0.1" \
     "build-tools;25.0.3" \
+    "cmake;3.6.4111459" \
     "extras;android;m2repository" \
     "extras;google;m2repository" \
     "extras;google;google_play_services" \
-    "extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2" \
-    "extras;m2repository;com;android;support;constraint;constraint-layout;1.0.1"
+    "extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2"
 
 # ------------------------------------------------------
 # --- Install Gradle from PPA
